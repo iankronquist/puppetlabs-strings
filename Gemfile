@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'yard'
+gem 'yard', '0.8.7.6'
 gem 'rgen'
 gem 'redcarpet'
 gem 'puppet-strings', '0.1.0', :path => '.'
